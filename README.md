@@ -10,7 +10,7 @@ Dự án nghiên cứu khoa học phân loại cảm xúc đa năm (2022 – 202
 
 ---
 
-## 📌 Điểm Nhấn Nghiên Cứu (Key Highlights)
+## Điểm Nhấn Nghiên Cứu (Key Highlights)
 
 * **Quy mô ngữ liệu:** **2.449 confessions** được cào và phân rã đơn vị từ 5 năm niên khóa (2022 - 2026).
 * **Đạo đức dữ liệu & Khử định danh (PII Masking):** 100% mã số sinh viên (`[STUDENT_ID]`), số điện thoại (`[PHONE]`), liên kết URL (`[URL]`) và email (`[EMAIL]`) được che giấu tuyệt đối.
@@ -23,7 +23,7 @@ Dự án nghiên cứu khoa học phân loại cảm xúc đa năm (2022 – 202
 
 ---
 
-## 📊 Bảng Đối Sánh Hiệu Năng Toàn Diện (Benchmark Progression)
+## Bảng Đối Sánh Hiệu Năng Toàn Diện (Benchmark Progression)
 
 | Giai đoạn / Phương pháp | Không gian đặc trưng / Kiến trúc | Accuracy | Macro-Recall | Macro-F1 (Core Metric) | Recall lớp Tiêu cực |
 |---|---|:---:|:---:|:---:|:---:|
@@ -41,7 +41,7 @@ Dự án nghiên cứu khoa học phân loại cảm xúc đa năm (2022 – 202
 
 ---
 
-## 🗂️ Cấu Trúc Thư Mục Dự Án (Repository Structure)
+## Cấu Trúc Thư Mục Dự Án (Repository Structure)
 
 ```text
 ├── data/
@@ -71,7 +71,7 @@ Dự án nghiên cứu khoa học phân loại cảm xúc đa năm (2022 – 202
 
 ---
 
-## 🚀 Hướng Dẫn Cài Đặt & Chạy (Quickstart)
+## Hướng Dẫn Cài Đặt & Chạy (Quickstart)
 
 ### 1. Cài đặt môi trường
 
@@ -107,7 +107,7 @@ Kết quả được xuất ra file `reports/sentiment_results_with_evidence.csv
 
 ---
 
-## 🔍 Hệ Thống Minh Chứng (Explainable AI - XAI)
+## Hệ Thống Minh Chứng (Explainable AI - XAI)
 
 Mỗi confession đều được đính kèm căn cứ minh bạch:
 
