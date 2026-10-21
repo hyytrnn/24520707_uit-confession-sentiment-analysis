@@ -1,4 +1,4 @@
-# 🎓 Phân Loại Cảm Xúc Confession Sinh Viên UIT (2022 - 2026)
+#  Phân Loại Cảm Xúc Confession Sinh Viên UIT (2022 - 2026)
 ## Multi-Year Aspect-Based Sentiment Analysis on University Student Confessions
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
@@ -119,13 +119,4 @@ Mỗi confession đều được đính kèm căn cứ minh bạch:
 
 ---
 
-## 🏫 Đạo Đức Dữ Liệu & Tuân Thủ Pháp Lý
 
-* Toàn bộ ngữ liệu được thu thập từ fanpage công khai theo chính sách dữ liệu nghiên cứu học thuật phi thương mại.
-* Mọi thông tin cá nhân định danh (PII) gồm tên riêng nhạy cảm, mã số sinh viên, số điện thoại, đường link mạng xã hội đã được ẩn danh hóa bằng các thẻ quy chuẩn trước khi xử lý mô hình.
-
----
-
-## 📝 Giấy Phép (License)
-
-Dự án được phân phối dưới giấy phép **MIT License**.
