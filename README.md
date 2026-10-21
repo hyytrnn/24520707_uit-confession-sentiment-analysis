@@ -28,12 +28,12 @@ Dự án nghiên cứu khoa học phân loại cảm xúc đa năm (2022 – 202
 | Giai đoạn / Phương pháp | Không gian đặc trưng / Kiến trúc | Accuracy | Macro-Recall | Macro-F1 (Core Metric) | Recall lớp Tiêu cực |
 |---|---|:---:|:---:|:---:|:---:|
 | **1. Heuristic Lexicon Baseline** | Từ điển phân cực & Luật ngữ cảnh | 65,00% | 51,20% | **51,20%** | 42,00% |
-| **2. Logistic Regression Baseline** | Word-only TF-IDF (1,2) | 71,09% | 52,58% | **54,55%** | 31,20% ⚠️ |
+| **2. Logistic Regression Baseline** | Word-only TF-IDF (1,2) | 71,09% | 52,58% | **54,55%** | 31,20%  |
 | **3. LinearSVC Baseline** | Word-only TF-IDF (1,2) | 77,87% | 65,55% | **68,75%** | 35,40% |
 | **4. Level 1: LinearSVC (Balanced)** | Cost-Sensitive Class-Weights | 79,34% | 69,73% | **72,20%** | 50,10% |
 | **5. Level 2: LinearSVC (Char_wb)** | FeatureUnion (Word + Char 3-5) | 80,24% | 70,61% | **73,37%** | 48,90% |
 | **6. Level 1+2: LinearSVC (Hybrid+Bal)** | Hybrid FeatureUnion + Class-Weights | 81,30% | 73,11% | **75,23%** | 51,64% |
-| **7. Level 3: PhoBERT-base (Kaggle GPU)** | **Pre-trained RoBERTa + Weighted Loss** | **89,13%** 🏆 | **87,66%** 🏆 | **86,08%** 🏆 | **81,25%** 🚀 |
+| **7. Level 3: PhoBERT-base (Kaggle GPU)** | **Pre-trained RoBERTa + Weighted Loss** | **89,13%**  | **87,66%**  | **86,08%**  | **81,25%**  |
 
 <p align="center">
   <img src="reports/sota_overall_comparison.png" alt="SOTA Progression Chart" width="850">
