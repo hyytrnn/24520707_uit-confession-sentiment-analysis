@@ -1,0 +1,52 @@
+﻿sample_index,ground_truth,predicted,error_type,suspected_cause,raw_text
+2,NEUTRAL,POSITIVE,NEUTRAL -> POSITIVE,Mỉa mai / Châm biếm (Sarcasm),"Mình là sinh viên năm 3 của trường, mình muốn nói rằng mình đã nhận học bổngggggg rồi :))) nhưng mình vẫn còm bức xúc khá nhiều
+Thứ nhất, trường đã gửi mail cho sinh viên lần đầu ở tháng 8, rồi sau đó có gửi tiếp nhắc nhở thêm ở tháng 10, các khoảng thời gian điền form là hơn hai tuần, không thể có việc bận hay sự cố kỹ thuật mà xảy ra dài như thế và còn ở hai thời điểm. Và trong mail cũng đề cập rất rõ chú ý về điều kiện để xét HB.
+Thứ hai, mình nghĩ nhiều người bị lỗi, không xuất hiện trong file dữ liệu dù có điền là có thật, nhưng trong số đó thì hoàn toàn không phải bị lỗi, vì mình có vô tình nghe được một cuộc thảo luận để biện minh sao cho hợp tình và hợp lý. Và mình còn biết được là xin ảnh lịch sử web của người khác để điền form chứng minh, giải trình.  
+Mình mong các bạn nào như vậy thì hãy đừng tự hào, những cái vô trách nhiệm như vậy mới làm những bạn khác không có học bổng như bạn của mình đây, sống có trách nhiệm vào các bạn nhé.
+-----------
+Có học bổng rồi thì nói sao cũng được 
+ Ad không có cũng không ai chỉ ad hết bùnnnnnn"
+4,NEGATIVE,NEUTRAL,NEGATIVE -> NEUTRAL,Teencode / Từ lóng hiếm,"Khi nào Trường mình tổ chức Xuân tình nguyện vậy ạ, em thấy bạn bè em ở các trường khác sắp đi hết rồi mà bên mình chưa thấy gì cả ạ :(((((
+-----------
+Ad cũng háo hức chờ đợi nè, có bạn nào biết không cho ad biết với"
+7,POSITIVE,NEGATIVE,POSITIVE -> NEGATIVE,Teencode / Từ lóng hiếm,Gửi 1 bạn dấu tên khoa M. Cậu đừng có né tránh tớ nữa được không :(((
+15,NEGATIVE,NEUTRAL,NEGATIVE -> NEUTRAL,Teencode / Từ lóng hiếm,"Đêm noel của Bạn thế nào, có được cùng ai kia đi ngắm đèn ngoài đường không? Chứ còn tui thì buồn lắm, tự biết mình chỉ là thứ 3 nên chỉ còn mong đến ngày thứ 3 mà thôi."
+17,POSITIVE,NEUTRAL,POSITIVE -> NEUTRAL,Teencode / Từ lóng hiếm,"Em chào anh chị và các bạn ạ, em là sv khóa 18. Vì đang còn năm nhất nên em rất muốn tham gia các hoạt động của trường để giao lưu kết bạn và dự định tham gia xuân tình nguyện năm nay. EM RẤT HÁO HỨC MONG CHỜ MÙA XUÂN NÀY.Tuy nhiên thì thời điểm này các bạn của em ở các trường khác đã bắt đầu tham gia các hoạt động rồi mà trường mình chưa thấy động tĩnh gì.Em muốn hỏi các anh chị ở đây có ai biết khi nào chiến dịch bắt đầu không ạ?nếu trễ quá chắc em sẽ hụt hẫn lắm. Em cảm ơn ạ"
+30,NEGATIVE,NEUTRAL,NEGATIVE -> NEUTRAL,Mỉa mai / Châm biếm (Sarcasm),Mình đang muốn đi sự kiện Đông của clb Lossless nhưng không có ai đi cùng có bạn nào cũng giống mình không :)))
+36,POSITIVE,NEUTRAL,POSITIVE -> NEUTRAL,Teencode / Từ lóng hiếm,"Tớ thích cậu Đình Minh khoa mềm, cậu cười như mùa thu toả nắng làm sáng cả những ngày học quân sự của tớ"
+45,POSITIVE,NEUTRAL,POSITIVE -> NEUTRAL,Teencode / Từ lóng hiếm,"áaa duy tùng ơi, biết duy tùng từ hồi còn cấp 3. em cũng đã thi đỗ vào trường cạnh trường anh học, ngày nào đi học cũng qua trường anh mấy bận, nhưng mà chắc không có duyên, gặp bao nhiêu người nhưng có mỗi anh là không tình cờ gặp được lần nào. em cũng sắp đi du học rồi. mong duy tùng học tập thật tốt và giữ gìn sức khỏe. em tò mò muốn biết kiểu con gái nào sẽ bên cạnh anh sau này quá"
+50,NEGATIVE,NEUTRAL,NEGATIVE -> NEUTRAL,Teencode / Từ lóng hiếm,"Gửi bạn nữ búi tóc đại đội 15,
+Hôm thứ 2 học ở giảng đường A2, tui lúc đó vội quá với lại bị rớt đồ, lúc cúi xuống nhặt thì ko may va quẹt cái ghế vào tay bạn, không biết bạn có sao không 
+ Tui xin lỗi bạn nhiều nha... nếu bạn đọc được cfs này bạn thả phẫn nha để tui ib bạn..."
+59,NEGATIVE,NEUTRAL,NEGATIVE -> NEUTRAL,Teencode / Từ lóng hiếm,"Trưa ngày 8/12/2023, bạn nữ đeo kẹp tóc hồng, dép hồng có mang dù ở toà b2 tầng 4 khu quân sự xinh quá ạaaaa ^.^ cho mình làm quen với (c.áo bị hỏng, mình có nhìn thấy)"
+62,NEUTRAL,POSITIVE,NEUTRAL -> POSITIVE,Teencode / Từ lóng hiếm,Hom biếc là anh Đạt khoa KTMT đã có ng iu chưa ạ ? em gặp anh hơi nhìu ròi đó
+63,POSITIVE,NEUTRAL,POSITIVE -> NEUTRAL,Teencode / Từ lóng hiếm,"Mọi người có điểm Mạng hết chưa ạ, cho mình hỏi là sai mỗi câu trừ 0.33 hay 0.5 vậy mn, làm cũng tự tin, mà ra kết quả điểm thấy hú hồn luôn :))"
+67,NEUTRAL,NEGATIVE,NEUTRAL -> NEGATIVE,Teencode / Từ lóng hiếm,"Hôm đi UIT Career Day mình thấy vài bạn nhận được cái túi Code Like A Girl xinh quá mà mình đến trễ nên quầy hết mất rồi, không biết bạn nào có lòng pass lại không tại mình mê ẻm quá :(("
+68,POSITIVE,NEUTRAL,POSITIVE -> NEUTRAL,Mỉa mai / Châm biếm (Sarcasm),"tình hình là em đang cảm thấy cô đơn nên là muốn tìm một bạn yêu part time hứa sẽ yêu chiều chăm ăn đến hết thời gian đi quân sự thì chia tay :))))(
+p/s: nếu hợp thì iu lun"
+69,POSITIVE,NEUTRAL,POSITIVE -> NEUTRAL,Teencode / Từ lóng hiếm,"Các anh chị ngành ktmt chuyên vi mạch cho e hỏi mik có học về ngành chip bán dẫn ko ạ tại e có định hướng ngành này. E lên web trg tìm hiểu nó chỉ nói chung về vi mạch máy tính, ko đề cập đến chip. Em cảm ơn"
+71,POSITIVE,NEUTRAL,POSITIVE -> NEUTRAL,Teencode / Từ lóng hiếm,"Lần đầu tiên…. tớ gặp phải trường hợp như thế này. Chuyện là có một bạn nữ học UIT đã fake ảnh người khác để lấy và làm quen với mình sau vài tuần trò chuyện thì tớ phát hiện ra những tấm ảnh đó là fake, mình có hỏi bạn một cách tử tế và nhẹ nhàng xong mình nhận lại là nút block. Nếu bạn có đọc được cfs thì tớ mong cậu đừng làm những trò như thế nữa dễ tạo nghiệp lắm"
+72,POSITIVE,NEUTRAL,POSITIVE -> NEUTRAL,Teencode / Từ lóng hiếm,Cho em hỏi mấy bạn học giải tích thầy T ổn ko sao bạn em kiu thầy chấm toàn 1 2đ em nghe ức chế quá??
+90,NEGATIVE,NEUTRAL,NEGATIVE -> NEUTRAL,Teencode / Từ lóng hiếm,cho mình hỏi nghỉ bao nhiêu buổi bị cấm thi vậy ạ? :(((( lỡ mà có bị thì có cách nào xin ko nhỉ
+91,NEGATIVE,NEUTRAL,NEGATIVE -> NEUTRAL,Teencode / Từ lóng hiếm,"Không biết bạn Nguyễn V. Nhật khoa Khoa học máy tính đã có người thương chưa, mình mến bạn lâu rồi nhưng vẫn ngại nói vì chưa biết bạn có người trong lòng chưa, bếu bạn có thật rồi thì có thể ra tín hiệu cho mình biết đi ạ"
+94,NEUTRAL,NEGATIVE,NEUTRAL -> NEGATIVE,Teencode / Từ lóng hiếm,"Có cố gắng nhưng chưa chắc sẽ thành công. Vâng đó chính xác là câu chuyện của mình. Mình đi học không vắng buổi nào, học rất chăm chỉ. Ôn thi giữa kì rất nhiều, ôn đến nỗi mà không còn gì để ôn. Nhưng vào bài thi, đề rất dễ, nhưng có 1 thế lực nào đó khiến mình làm sai? Đúng thì sửa lại, gạch bỏ. Có những môn mình thấy mình làm rất ok (có kiểm chứng)
+ nhưng điểm lại kh đúng như vậy. Nói xui thì cũng không đúng, nói tại mình dốt cũng không đúng. Haizz"
+97,POSITIVE,NEUTRAL,POSITIVE -> NEUTRAL,Teencode / Từ lóng hiếm,"Hí mọi người,
+Tình hình là lần đầu tui thích một người từ lần gặp đầu tiên á. Lúc đầu tui chỉ nghĩ tại bạn đẹp trai thui, nhưng sau khi stalk fb bạn tui mới thấy bạn đỉnh dữ thần luôn. Tui thấy tui crush đúng người vl.
+Tuy nhiên thì cuộc đời làm gì mà suôn sẻ như thế. Crush tui set tình trạng fb là hẹn hò =((. Giờ tui mới biết thất tình đau lòng đến vậy. Nhưng mà tui vẫn không kiềm chế được mà tiếp tục stalk fb của người ta mặc dù tui thừa biết làm vậy sẽ càng luỵ người ta. Giờ tui phải làm sao để vượt qua cú shock đầu đời này đây huhuhu"
+98,POSITIVE,NEUTRAL,POSITIVE -> NEUTRAL,Teencode / Từ lóng hiếm,"Hôm 31/10 mình có gặp một bạn nữ đứng trước phòng B5.10. Bạn mặc áo khoác hoodie màu vàng, tóc ngắn, nhuộm nâu nhạt, đeo balo trường. Vẻ dễ thương của bạn đã đốn ngã tim mình mất tiêu. Mình gặp bạn cũng lâu rồi nhưng đến hôm nay mới dò được infor nên mình viết cfs này mong bạn có thể cho mình cơ hội được làm quen với bạn. Nếu bạn đồng ý thì thả phẫn nộ cfs này nhé P.G ATTT 2023.1"
+99,NEUTRAL,POSITIVE,NEUTRAL -> POSITIVE,Teencode / Từ lóng hiếm,"Có ai bị cái hội chứng mà mình thích người ta cực kì, lúc nào cũng theo dõi người ta, biết người ta có người theo đuổi hay gì là buồn chết lên chết xuống. Xong người ta thích lại mình thì quay ra không thích nữa không"
+104,NEUTRAL,NEGATIVE,NEUTRAL -> NEGATIVE,Ngữ cảnh phức tạp / Pha trộn,"Mình muốn góp ý các bạn nghỉ trưa ở phòng nghỉ trưa toà E, phần đông mọi người đến tầng 2 toà E để nghỉ trưa va học tập nhưng gần đây có nhiều bạn sinh viên đến và bật nhạc, chơi game nói chuyện lớn ảnh hưởng đến nhiều người. Đây là góp ý mang tính xây dựng hy vọng các bạn có ý thức hơn."
+127,POSITIVE,NEUTRAL,POSITIVE -> NEUTRAL,Teencode / Từ lóng hiếm,"Hiện mình có 2 sự lựa chọn nhưng phân vân quá, mọi người cho mình xin ý kiến với 
+1. Ở một nơi thật là xịn xò, full nội thất (máy lạnh, máy giặt, máy gì cũng có,...), có phòng riêng rộng thoải mái, không phải trả tiền điện nước. Nhưng combo đi bộ 2,5km + bus 17km để đến trường (tầm 50p-1h20p)
+2. Ở ktx phòng 8 người và đi bus 15p"
+129,NEGATIVE,NEUTRAL,NEGATIVE -> NEUTRAL,Teencode / Từ lóng hiếm,Cho mình hỏi bạn Nguyễn Thị Lệ Trúc lớp Mmtt2023.3 có ny chưa ạ? Nếu chưa bạn có thể cho mình một cơ hội với được ko chứ thật sự mỗi lần lên lớp nhìn thấy bạn là mình không còn tâm trí để học thật :((. From boymmtt2023.3
+134,NEUTRAL,POSITIVE,NEUTRAL -> POSITIVE,Teencode / Từ lóng hiếm,"Có phải là con trai IT thường nhạt nhẽo không biết ý của các bạn nữ không 
+, thật ra mình đang thích một bạn nam rất lâu rồi nhưng hình như bạn đây không nhận ra tâm tư của mìn, còn phớt lợ mình nữa 
+ bạn Nguyễn V.N.khoa Khoa học máy tính ơi, bạn có thể đừng lơ mình được không =(("
+141,NEGATIVE,NEUTRAL,NEGATIVE -> NEUTRAL,Teencode / Từ lóng hiếm,Em muốn tìm info của anh coi thi phòng B3.14 ngày 30/10. Anh dễ huông quá anh ơi huhu ;-;
+147,NEGATIVE,NEUTRAL,NEGATIVE -> NEUTRAL,Teencode / Từ lóng hiếm,"Bữa mình gửi cfs nhưng thấy lâu quá chưa đăng nên gửi tiếp
+Bữa có bạn bảo đầu tháng 11 có giải lq kbt có thật không mng confirm với ạ
+Nếu có thì mình tuyển mid với sp cứng (ưu tiên mác ctg) để lấy chức vô địch"
+148,NEUTRAL,POSITIVE,NEUTRAL -> POSITIVE,Teencode / Từ lóng hiếm,"Chời ơi chời ơi, cíu em khỏi Mạch số
+Em sinh viên Mạng k18. Lần đầu học đến mấy môn phần cứng xong xịt keo vì nó trừu tượng với khô khan quá chừng :((. Mấy ac đi trước có thể reviu cho em mấy môn chuyên ngành về sau có môn nào nặng phần cứng không để em chuẩn bị tâm lý trước đi ạ. Em cảm ơn nhìu nhìu."

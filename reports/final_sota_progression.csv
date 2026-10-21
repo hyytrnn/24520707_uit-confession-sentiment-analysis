@@ -1,0 +1,8 @@
+﻿Phương pháp / Giai đoạn,Kiến trúc,Accuracy,Macro-F1,Negative Recall
+1. Heuristic Lexicon Baseline (Tuần 1),Rule-based & Lexicon,0.65,0.512,0.42
+2. ML Baseline: Logistic Regression,Word TF-IDF,0.7109,0.5455,0.312
+3. ML Baseline: LinearSVC,Word TF-IDF,0.7787,0.6875,0.354
+4. Level 1: LinearSVC (Balanced),Cost-Sensitive SVM,0.7934,0.722,0.501
+5. Level 2: LinearSVC (Char_wb + Word),FeatureUnion N-grams,0.8024,0.7337,0.489
+6. Level 1+2: LinearSVC (Hybrid + Balanced),Hybrid Cost-Sensitive SVM,0.813,0.7523,0.5164
+7. Level 3: PhoBERT-base (SOTA Transformers),Pre-trained RoBERTa + Weighted Loss,0.8913,0.8608,0.8125

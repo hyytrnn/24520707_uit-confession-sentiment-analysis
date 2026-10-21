@@ -1,0 +1,53 @@
+{
+  "NEGATIVE": [
+    "tệ",
+    "vì",
+    "lừa_đảo",
+    "bị",
+    "khóc",
+    "khó_khăn",
+    "chán",
+    "chửi",
+    "khó_chịu",
+    "hỏng",
+    "bức_xúc",
+    "lâu",
+    "rớt",
+    "khó",
+    "buồn"
+  ],
+  "NEUTRAL": [
+    "tim",
+    "mấy môn",
+    "em mong",
+    "mình cũng",
+    "khmt",
+    "lại với",
+    "làm gì",
+    "tính là",
+    "trả",
+    "đã làm",
+    "của mọi",
+    "cám_ơn",
+    "clip",
+    "gì là",
+    "review"
+  ],
+  "POSITIVE": [
+    "điểm_cao",
+    "mình cảm_ơn",
+    "xin cảm_ơn",
+    "đậu",
+    "không buồn",
+    "giỏi",
+    "em cảm_ơn",
+    "học_bổng",
+    "mê",
+    "tốt",
+    "đẹp",
+    "vui",
+    "dễ_thương",
+    "thích",
+    "cảm_ơn"
+  ]
+}
